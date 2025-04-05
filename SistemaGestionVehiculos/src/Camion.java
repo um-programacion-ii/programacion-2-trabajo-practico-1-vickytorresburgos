@@ -16,6 +16,6 @@ public class Camion extends Vehiculo {
 
     @Override
     public String obtenerDescripcion() {
-        return super.obtenerDescripcion() + " | Con acoplado:" + (tieneAcoplado ? "Si" : "No");
+        return super.obtenerDescripcion() + "\n Con acoplado:" + (tieneAcoplado ? "Si" : "No");
     }
 }
