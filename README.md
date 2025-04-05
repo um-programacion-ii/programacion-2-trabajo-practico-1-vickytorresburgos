@@ -1,6 +1,6 @@
 # 🚗 Sistema de Gestión de Vehículos
 
-Trabajo práctico N°1 de Programación II - Ingeniería en Informática
+Trabajo práctico N°1 de Programación II - Ingeniería en Informática - Universidad de Mendoza
 
 ## 👤 Autor
 **Nombre y apellido:** Maria Victoria Torres Burgos
@@ -16,16 +16,18 @@ Trabajo práctico N°1 de Programación II - Ingeniería en Informática
 
 ```bash
 git clone git@github.com:um-programacion-ii/programacion-2-trabajo-practico-1-vickytorresburgos.git
-
+```
 2. Navegar al repositorio y compilar
 
+```
 cd SistemaGestionVehiculos
 javac src/*.java
-
+```
 3. Ejecutar el programa
 
+```
 java -cp src Main
-
+```
 ## Ejemplo de Uso
 
 Listado de Vehículos
