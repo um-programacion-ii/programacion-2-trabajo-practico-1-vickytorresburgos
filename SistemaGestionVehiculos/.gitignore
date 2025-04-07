@@ -2,6 +2,11 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+src/Auto.class
+src/Camion.class
+src/Vehiculo.class
+src/VehiculoPrinter.class
+../programacion-2-trabajo-practico-1-vickytorresburgos.iml
 
 ### Eclipse ###
 .apt_generated
