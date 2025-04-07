@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-JQrLgaz)
 # 🧠 Trabajo Práctico: Sistema de Gestión de Vehículos (Java + SOLID + GitHub)
 
 ## 📌 Objetivo General
@@ -161,4 +162,53 @@ Implementar la clase base `Vehiculo` que servirá como punto de partida para la 
 
 ## 📝 Licencia
 
+Este trabajo es parte del curso de Programación 2 de Ingeniería en Informática. Uso educativo únicamente.
+
+# 🚗 Sistema de Gestión de Vehículos
+
+Trabajo práctico N°1 de Programación II - Ingeniería en Informática
+
+## 👤 Autor
+**Nombre y apellido:** Maria Victoria Torres Burgos
+
+## 💻 Requisitos
+- JDK 8 o superior
+- IDE (Eclipse, IntelliJ, VS Code, etc.)
+- Git
+
+## ⚙️ Instrucciones de Ejecución
+
+1. Clonar el repositorio:
+
+```bash
+git clone git@github.com:um-programacion-ii/programacion-2-trabajo-practico-1-vickytorresburgos.git
+```
+2. Navegar al repositorio y compilar
+```
+cd SistemaGestionVehiculos
+javac src/*.java
+```
+3. Ejecutar el programa
+```
+java -cp src Main
+```
+## Ejemplo de Uso
+
+Listado de Vehículos
+Informacion del Vehiculo \
+ Patente: QWE123 \
+ Marca: Ford \
+ Año: 2014 \
+ Carga: 4000.5 kg \
+Buscando vehículo con patente:RFT745 \
+Vehiculo encontrado \
+Informacion del Vehiculo \
+ Patente: RFT745 \
+ Marca: Fiat \
+ Año: 2005 \
+ Carga: 8000.0 kg \
+ Con acoplado:Si
+ 
+## 📝 Licencia
+ 
 Este trabajo es parte del curso de Programación 2 de Ingeniería en Informática. Uso educativo únicamente.
